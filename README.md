@@ -33,3 +33,15 @@ Built as a showcase for vehicle performance engineering roles, especially in the
 ---
 
 ## 🛠️ Project Structure
+
+f1-lap-time-optimiser/
+├── main.py                  # Console-based simulation script
+├── ui_streamlit.py          # Streamlit web app interface
+├── utils.py                 # Simulation logic: ERS, DRS, tyre degradation
+├── data/
+│   └── lap_telemetry.csv    # Output telemetry file (ignored by Git)
+├── assets/
+│   ├── config.png           # UI screenshot: sliders + table
+│   └── chart.png            # UI screenshot: segment time chart
+├── .gitignore               # Ignore data and temp files
+└── README.md                # GitHub-facing documentation
