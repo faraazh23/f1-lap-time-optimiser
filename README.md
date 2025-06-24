@@ -24,10 +24,11 @@ Built as a showcase for vehicle performance engineering roles, especially in the
 
 ## 📸 Screenshots
 
-### 🖥️ Streamlit UI
+## 📸 Streamlit UI
+
 | Lap Config Panel | Lap Time Chart |
 |------------------|----------------|
-| ![config](https://via.placeholder.com/400x200.png?text=Lap+Input+Sliders) | ![chart](https://via.placeholder.com/400x200.png?text=Lap+Time+Chart) |
+| ![config](assets/config.png) | ![chart](assets/chart.png) |
 
 ---
 
